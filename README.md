@@ -1,6 +1,6 @@
 # 🐷 Piece by Piece 一塊一塊
 
-**A cozy farm jigsaw game with a dark secret.**
+**A cozy farm jigsaw game with a secret.**
 
 You are Dumpling, a little pig born in the middle of June. Grandma found you at the market and said you looked hungry. Ever since, she has fed you, pampered you, and loved you every single day. And she has promised you a very special treat in December.
 
